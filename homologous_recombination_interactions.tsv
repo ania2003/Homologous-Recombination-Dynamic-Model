@@ -1,0 +1,251 @@
+NODE	INTERACTION	NODE
+BLM	in catalysis with	MRE11
+BLM	in catalysis with	NBN
+BLM	in catalysis with	POLD1
+BLM	in catalysis with	POLD2
+BLM	in catalysis with	POLD3
+BLM	in catalysis with	POLD4
+BLM	in catalysis with	RAD50
+BLM	in catalysis with	RPA1
+BLM	in catalysis with	RPA2
+BLM	in catalysis with	RPA3
+BLM	controls state change of	RPA2
+EME1	controls state change of	BLM
+EME1	controls state change of	BRCA2
+EME1	controls state change of	MRE11
+EME1	controls state change of	NBN
+EME1	controls state change of	RAD50
+EME1	controls state change of	RAD51
+EME1	controls state change of	RAD51B
+EME1	controls state change of	RAD51C
+EME1	controls state change of	RAD51D
+EME1	controls state change of	TOP3A
+EME1	controls state change of	XRCC2
+EME1	controls state change of	XRCC3
+EME1	interacts with	MUS81
+MRE11	in catalysis with	POLD1
+MRE11	in catalysis with	POLD2
+MRE11	in catalysis with	POLD3
+MRE11	in catalysis with	POLD4
+MRE11	in catalysis with	RPA1
+MRE11	in catalysis with	RPA2
+MRE11	in catalysis with	RPA3
+MRE11	controls state change of	NBN
+MRE11	controls state change of	RPA2
+MRE11	interacts with	BLM
+MUS81	controls state change of	BLM
+MUS81	controls state change of	BRCA2
+MUS81	controls state change of	MRE11
+MUS81	controls state change of	NBN
+MUS81	controls state change of	RAD50
+MUS81	controls state change of	RAD51
+MUS81	controls state change of	RAD51B
+MUS81	controls state change of	RAD51C
+MUS81	controls state change of	RAD51D
+MUS81	controls state change of	TOP3A
+MUS81	controls state change of	XRCC2
+MUS81	controls state change of	XRCC3
+NBN	in catalysis with	POLD1
+NBN	in catalysis with	POLD2
+NBN	in catalysis with	POLD3
+NBN	in catalysis with	POLD4
+NBN	in catalysis with	RPA1
+NBN	in catalysis with	RPA2
+NBN	in catalysis with	RPA3
+NBN	controls state change of	RPA2
+NBN	interacts with	BLM
+NBN	interacts with	MRE11
+POLD1	controls state change of	BLM
+POLD1	controls state change of	BRCA2
+POLD1	controls state change of	MRE11
+POLD1	controls state change of	NBN
+POLD1	controls state change of	RAD50
+POLD1	controls state change of	RAD51
+POLD1	controls state change of	RAD51B
+POLD1	controls state change of	RAD51C
+POLD1	controls state change of	RAD51D
+POLD1	controls state change of	RPA1
+POLD1	controls state change of	RPA2
+POLD1	controls state change of	RPA3
+POLD1	controls state change of	TOP3A
+POLD1	controls state change of	XRCC2
+POLD1	controls state change of	XRCC3
+POLD1	interacts with	POLD3
+POLD1	interacts with	POLD4
+POLD2	controls state change of	BLM
+POLD2	controls state change of	BRCA2
+POLD2	controls state change of	MRE11
+POLD2	controls state change of	NBN
+POLD2	controls state change of	RAD50
+POLD2	controls state change of	RAD51
+POLD2	controls state change of	RAD51B
+POLD2	controls state change of	RAD51C
+POLD2	controls state change of	RAD51D
+POLD2	controls state change of	RPA1
+POLD2	controls state change of	RPA2
+POLD2	controls state change of	RPA3
+POLD2	controls state change of	TOP3A
+POLD2	controls state change of	XRCC2
+POLD2	controls state change of	XRCC3
+POLD2	interacts with	POLD1
+POLD2	interacts with	POLD3
+POLD2	interacts with	POLD4
+POLD3	controls state change of	BLM
+POLD3	controls state change of	BRCA2
+POLD3	controls state change of	MRE11
+POLD3	controls state change of	NBN
+POLD3	controls state change of	RAD50
+POLD3	controls state change of	RAD51
+POLD3	controls state change of	RAD51B
+POLD3	controls state change of	RAD51C
+POLD3	controls state change of	RAD51D
+POLD3	controls state change of	RPA1
+POLD3	controls state change of	RPA2
+POLD3	controls state change of	RPA3
+POLD3	controls state change of	TOP3A
+POLD3	controls state change of	XRCC2
+POLD3	controls state change of	XRCC3
+POLD4	controls state change of	BLM
+POLD4	controls state change of	BRCA2
+POLD4	controls state change of	MRE11
+POLD4	controls state change of	NBN
+POLD4	controls state change of	RAD50
+POLD4	controls state change of	RAD51
+POLD4	controls state change of	RAD51B
+POLD4	controls state change of	RAD51C
+POLD4	controls state change of	RAD51D
+POLD4	controls state change of	RPA1
+POLD4	controls state change of	RPA2
+POLD4	controls state change of	RPA3
+POLD4	controls state change of	TOP3A
+POLD4	controls state change of	XRCC2
+POLD4	controls state change of	XRCC3
+POLD4	interacts with	POLD3
+RAD50	in catalysis with	POLD1
+RAD50	in catalysis with	POLD2
+RAD50	in catalysis with	POLD3
+RAD50	in catalysis with	POLD4
+RAD50	in catalysis with	RPA1
+RAD50	in catalysis with	RPA2
+RAD50	in catalysis with	RPA3
+RAD50	controls state change of	NBN
+RAD50	controls state change of	RPA2
+RAD50	interacts with	BLM
+RAD50	interacts with	MRE11
+RAD50	interacts with	NBN
+RAD50	interacts with	RPA1
+RAD50	interacts with	RPA2
+RAD51	controls expression of	RAD50
+RAD51	interacts with	BLM
+RAD51	interacts with	BRCA2
+RAD51	interacts with	RAD51B
+RAD51	interacts with	RAD51D
+RAD51	interacts with	RAD52
+RAD51	interacts with	RPA1
+RAD51	interacts with	RPA2
+RAD51	interacts with	SEM1
+RAD51	interacts with	XRCC2
+RAD51	interacts with	XRCC3
+RAD51B	interacts with	RPA1
+RAD51B	interacts with	XRCC2
+RAD51C	controls state change of	BRCA2
+RAD51C	controls state change of	RAD51
+RAD51C	controls state change of	RPA1
+RAD51C	controls state change of	RPA2
+RAD51C	controls state change of	RPA3
+RAD51C	interacts with	BRCA2
+RAD51C	interacts with	RAD51
+RAD51C	interacts with	RAD51B
+RAD51C	interacts with	RAD51D
+RAD51C	interacts with	RPA1
+RAD51C	interacts with	XRCC2
+RAD51C	interacts with	XRCC3
+RAD51D	interacts with	BLM
+RAD51D	interacts with	RAD51B
+RAD51D	interacts with	RPA1
+RAD51D	interacts with	XRCC2
+RAD51D	interacts with	XRCC3
+RAD52	interacts with	RPA1
+RAD52	interacts with	RPA2
+RPA1	controls state change of	BLM
+RPA1	controls state change of	BRCA2
+RPA1	controls state change of	MRE11
+RPA1	controls state change of	NBN
+RPA1	controls state change of	RAD50
+RPA1	controls state change of	RAD51
+RPA1	controls state change of	RAD51B
+RPA1	controls state change of	RAD51C
+RPA1	controls state change of	RAD51D
+RPA1	controls state change of	RPA2
+RPA1	controls state change of	TOP3A
+RPA1	controls state change of	XRCC2
+RPA1	controls state change of	XRCC3
+RPA1	interacts with	BLM
+RPA1	interacts with	BRCA2
+RPA1	interacts with	MRE11
+RPA1	interacts with	NBN
+RPA1	interacts with	POLD1
+RPA1	interacts with	TOP3A
+RPA1	interacts with	TOP3B
+RPA1	interacts with	XRCC2
+RPA2	controls state change of	BLM
+RPA2	controls state change of	BRCA2
+RPA2	controls state change of	MRE11
+RPA2	controls state change of	NBN
+RPA2	controls state change of	RAD50
+RPA2	controls state change of	RAD51
+RPA2	controls state change of	RAD51B
+RPA2	controls state change of	RAD51C
+RPA2	controls state change of	RAD51D
+RPA2	controls state change of	TOP3A
+RPA2	controls state change of	XRCC2
+RPA2	controls state change of	XRCC3
+RPA2	interacts with	BLM
+RPA2	interacts with	BRCA2
+RPA2	interacts with	MRE11
+RPA2	interacts with	NBN
+RPA2	interacts with	POLD1
+RPA2	interacts with	RPA1
+RPA2	interacts with	TOP3A
+RPA3	controls state change of	BLM
+RPA3	controls state change of	BRCA2
+RPA3	controls state change of	MRE11
+RPA3	controls state change of	NBN
+RPA3	controls state change of	RAD50
+RPA3	controls state change of	RAD51
+RPA3	controls state change of	RAD51B
+RPA3	controls state change of	RAD51C
+RPA3	controls state change of	RAD51D
+RPA3	controls state change of	RPA2
+RPA3	controls state change of	TOP3A
+RPA3	controls state change of	XRCC2
+RPA3	controls state change of	XRCC3
+RPA3	interacts with	BLM
+RPA3	interacts with	MRE11
+RPA3	interacts with	NBN
+RPA3	interacts with	POLD1
+RPA3	interacts with	RAD50
+RPA3	interacts with	RAD51
+RPA3	interacts with	RAD52
+RPA3	interacts with	RPA1
+RPA3	interacts with	RPA2
+RPA3	interacts with	TOP3A
+RPA4	interacts with	RPA1
+RPA4	interacts with	RPA2
+RPA4	interacts with	RPA3
+SEM1	interacts with	BRCA2
+SEM1	interacts with	RPA1
+TOP3A	in catalysis with	MRE11
+TOP3A	in catalysis with	NBN
+TOP3A	in catalysis with	POLD1
+TOP3A	in catalysis with	POLD2
+TOP3A	in catalysis with	POLD3
+TOP3A	in catalysis with	POLD4
+TOP3A	in catalysis with	RAD50
+TOP3A	in catalysis with	RPA1
+TOP3A	in catalysis with	RPA2
+TOP3A	in catalysis with	RPA3
+TOP3A	controls state change of	RPA2
+TOP3A	interacts with	BLM
+XRCC2	interacts with	BLM
+XRCC3	interacts with	BRCA2
