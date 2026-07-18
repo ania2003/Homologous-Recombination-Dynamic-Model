@@ -35,31 +35,6 @@ The expanded model includes regulators such as CtIP, EXO1, DNA2, DSS1, RAD54, an
 - FANCM-related parameters influence D-loop stabilization and downstream repair progression.
 - Because most kinetic constants are not experimentally calibrated, the model is exploratory and hypothesis-generating rather than quantitatively predictive.
 
-## Repository structure
-
-```text
-homologous-recombination-dynamic-model/
-├── README.md
-├── LICENSE
-├── requirements.txt
-├── .gitignore
-├── data/
-│   ├── README.md
-│   └── homologous_recombination_interactions.tsv
-├── notebooks/
-│   └── homologous_recombination_model.ipynb
-├── src/
-│   ├── network_analysis.py
-│   ├── ode_model.py
-│   └── sensitivity_analysis.py
-├── figures/
-│   └── README.md
-├── results/
-│   └── README.md
-└── report/
-    └── dynamic_modelling_hr_network.pdf
-```
-
 ## Installation
 
 Create and activate a virtual environment, then install the required packages:
